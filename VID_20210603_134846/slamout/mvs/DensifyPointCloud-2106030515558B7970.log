@@ -1,0 +1,82 @@
+05:15:55 [App     ] Build date: Jun  2 2021, 10:29:01
+05:15:55 [App     ] CPU: 11th Gen Intel(R) Core(TM) i7-1165G7 @ 2.80GHz (8 cores)
+05:15:55 [App     ] RAM: 7.47GB Physical Memory 2.00GB Virtual Memory
+05:15:55 [App     ] OS: Linux 5.8.0-53-generic (x86_64)
+05:15:55 [App     ] SSE & AVX compatible CPU & OS detected
+05:15:55 [App     ] Command line: scene.mvs --dense-config-file Densify.ini --resolution-level 1 -w /00_work/01_data/slam/VID_20210603_134846/slamout/mvs
+05:15:55 [App     ] Camera model loaded: platform 0; camera  0; f 0.774x0.774; poses 24
+05:15:55 [App     ] Image loaded   0: image_0000.jpg
+05:15:55 [App     ] Image loaded   1: image_0001.jpg
+05:15:55 [App     ] Image loaded   2: image_0002.jpg
+05:15:55 [App     ] Image loaded   3: image_0003.jpg
+05:15:55 [App     ] Image loaded   4: image_0004.jpg
+05:15:55 [App     ] Image loaded   5: image_0005.jpg
+05:15:55 [App     ] Image loaded   6: image_0006.jpg
+05:15:55 [App     ] Image loaded   7: image_0007.jpg
+05:15:55 [App     ] Image loaded   8: image_0008.jpg
+05:15:55 [App     ] Image loaded   9: image_0009.jpg
+05:15:55 [App     ] Image loaded  10: image_0010.jpg
+05:15:55 [App     ] Image loaded  11: image_0011.jpg
+05:15:55 [App     ] Image loaded  12: image_0050.jpg
+05:15:55 [App     ] Image loaded  13: image_0051.jpg
+05:15:55 [App     ] Image loaded  14: image_0052.jpg
+05:15:55 [App     ] Image loaded  15: image_0053.jpg
+05:15:55 [App     ] Image loaded  16: image_0054.jpg
+05:15:55 [App     ] Image loaded  17: image_0055.jpg
+05:15:55 [App     ] Image loaded  18: image_0056.jpg
+05:15:55 [App     ] Image loaded  19: image_0057.jpg
+05:15:55 [App     ] Image loaded  20: image_0058.jpg
+05:15:55 [App     ] Image loaded  21: image_0059.jpg
+05:15:55 [App     ] Image loaded  22: image_0060.jpg
+05:15:55 [App     ] Image loaded  23: image_0061.jpg
+05:15:55 [App     ] Scene loaded from interface format (21ms):
+	24 images (24 calibrated) with a total of 21.09 MPixels (0.88 MPixels/image)
+	511 points, 0 vertices, 0 faces
+05:15:55 [App     ] Preparing images for dense reconstruction completed: 24 images (46ms)
+05:15:55 [App     ] error: reference image   2 has no good images in view
+05:15:55 [App     ] error: reference image   6 has no good images in view
+05:15:55 [App     ] error: reference image   3 has no good images in view
+05:15:55 [App     ] error: reference image  19 has no good images in view
+05:15:55 [App     ] error: reference image   0 has no good images in view
+05:15:55 [App     ] error: reference image  12 has no good images in view
+05:15:55 [App     ] error: reference image   1 has no good images in view
+05:15:55 [App     ] error: reference image   4 has no good images in view
+05:15:55 [App     ] Selecting images for dense reconstruction completed: 16 images (1ms)
+05:15:55 [App     ] Reference image  15 paired with 0 views
+05:15:55 [App     ] Reference image  21 paired with 1 views
+05:15:55 [App     ] Reference image   8 paired with 0 views
+05:15:55 [App     ] Reference image  20 paired with 1 views
+05:15:56 [App     ] Depth-map for image  21 with image  22 estimated: 640x360 (520ms)
+05:15:56 [App     ] Reference image  18 paired with 0 views
+05:15:56 [App     ] Reference image   5 paired with 0 views
+05:15:56 [App     ] Reference image   9 paired with 0 views
+05:15:56 [App     ] Reference image  17 paired with 1 views
+05:15:56 [App     ] Depth-map for image  20 with image  22 estimated: 640x360 (469ms)
+05:15:56 [App     ] Reference image  11 paired with 1 views
+05:15:57 [App     ] Depth-map for image  17 with image  16 estimated: 640x360 (656ms)
+05:15:57 [App     ] Reference image  10 paired with 3 views
+05:15:57 [App     ] Depth-map for image  11 with image  10 estimated: 640x360 (537ms)
+05:15:57 [App     ] Reference image  14 paired with 0 views
+05:15:57 [App     ] Reference image  23 paired with 0 views
+05:15:57 [App     ] Reference image  16 paired with 0 views
+05:15:57 [App     ] Reference image  22 paired with 2 views
+05:15:59 [App     ] Depth-map for image  10 estimated using  3 images: 640x360 (1s440ms)
+05:15:59 [App     ] Reference image   7 paired with 0 views
+05:15:59 [App     ] Reference image  13 paired with 0 views
+05:16:00 [App     ] Depth-map for image  22 estimated using  2 images: 640x360 (1s180ms)
+05:16:00 [App     ] error: depth map  17 can not be filtered
+05:16:00 [App     ] error: depth map  20 can not be filtered
+05:16:00 [App     ] error: depth map  10 can not be filtered
+05:16:00 [App     ] error: depth map  11 can not be filtered
+05:16:00 [App     ] error: depth map  21 can not be filtered
+05:16:00 [App     ] Depth map  22 filtered using 2 other images: 87401/132861 depths discarded (26ms)
+05:16:00 [App     ] Depth-maps fused and filtered: 6 depth-maps, 640305 depths, 3658 points (1%%) (94ms)
+05:16:00 [App     ] Densifying point-cloud completed: 3658 points (5s36ms)
+05:16:00 [App     ] Scene saved (6ms):
+	24 images (24 calibrated)
+	3658 points, 0 vertices, 0 faces
+05:16:00 [App     ] Point-cloud saved: 3658 points (0ms)
+05:16:00 [App     ] MEMORYINFO: {
+05:16:00 [App     ] 	VmPeak:	 2094240 kB
+05:16:00 [App     ] 	VmSize:	 2090996 kB
+05:16:00 [App     ] } ENDINFO
