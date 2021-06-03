@@ -1,0 +1,22 @@
+07:03:32 [App     ] Build date: Jun  2 2021, 10:29:01
+07:03:32 [App     ] CPU: 11th Gen Intel(R) Core(TM) i7-1165G7 @ 2.80GHz (8 cores)
+07:03:32 [App     ] RAM: 7.47GB Physical Memory 2.00GB Virtual Memory
+07:03:32 [App     ] OS: Linux 5.8.0-53-generic (x86_64)
+07:03:32 [App     ] SSE & AVX compatible CPU & OS detected
+07:03:32 [App     ] Command line: scene_dense_mesh_refine.mvs --decimate 0.5 -w /00_work/01_data/slam/VID_20210603_134846/slamout/mvs
+07:03:32 [App     ] Scene loaded (8ms):
+	51 images (51 calibrated) with a total of 44.82 MPixels (0.88 MPixels/image)
+	0 points, 5648 vertices, 11209 faces
+07:03:32 [App     ] Cleaned mesh: 2838 vertices, 5604 faces (42ms)
+07:03:33 [App     ] Cleaned mesh: 2838 vertices, 5604 faces (5ms)
+07:03:33 [App     ] Assigning the best view to each face completed: 5604 faces (877ms)
+07:03:34 [App     ] Generating texture atlas and image completed: 130 patches, 2048 image size (316ms)
+07:03:34 [App     ] Mesh texturing completed: 2838 vertices, 5604 faces (1s206ms)
+07:03:34 [App     ] Scene saved (399ms):
+	51 images (51 calibrated)
+	0 points, 2838 vertices, 5604 faces
+07:03:34 [App     ] Mesh saved: 2838 vertices, 5604 faces (282ms)
+07:03:34 [App     ] MEMORYINFO: {
+07:03:34 [App     ] 	VmPeak:	 1356392 kB
+07:03:34 [App     ] 	VmSize:	 1173356 kB
+07:03:34 [App     ] } ENDINFO
