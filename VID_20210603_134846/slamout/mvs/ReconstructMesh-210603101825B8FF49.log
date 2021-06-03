@@ -1,0 +1,24 @@
+10:18:25 [App     ] Build date: Jun  2 2021, 10:29:01
+10:18:25 [App     ] CPU: 11th Gen Intel(R) Core(TM) i7-1165G7 @ 2.80GHz (8 cores)
+10:18:25 [App     ] RAM: 7.47GB Physical Memory 2.00GB Virtual Memory
+10:18:25 [App     ] OS: Linux 5.8.0-53-generic (x86_64)
+10:18:25 [App     ] SSE & AVX compatible CPU & OS detected
+10:18:25 [App     ] Command line: scene_dense.mvs -w /00_work/01_data/slam/VID_20210603_134846/slamout/mvs
+10:18:25 [App     ] Scene loaded (62ms):
+	148 images (148 calibrated) with a total of 32.52 MPixels (0.22 MPixels/image)
+	43516 points, 0 vertices, 0 faces
+10:18:25 [App     ] Delaunay tetrahedralization completed: 43516 points -> 23229 vertices, 145038 (+196) cells, 290174 (+294) faces (188ms)
+10:18:25 [App     ] Delaunay tetrahedras weighting completed: 145234 cells, 290468 faces (134ms)
+10:18:25 [App     ] Delaunay tetrahedras graph-cut completed (25137.9 flow): 17803 vertices, 35693 faces (174ms)
+10:18:26 [App     ] Mesh reconstruction completed: 17842 vertices, 35619 faces (668ms)
+10:18:26 [App     ] Cleaned mesh: 17808 vertices, 35584 faces (58ms)
+10:18:26 [App     ] Cleaned mesh: 17808 vertices, 35584 faces (35ms)
+10:18:26 [App     ] Cleaned mesh: 17808 vertices, 35584 faces (25ms)
+10:18:26 [App     ] Scene saved (38ms):
+	148 images (148 calibrated)
+	0 points, 17808 vertices, 35584 faces
+10:18:26 [App     ] Mesh saved: 17808 vertices, 35584 faces (3ms)
+10:18:26 [App     ] MEMORYINFO: {
+10:18:26 [App     ] 	VmPeak:	 1228892 kB
+10:18:26 [App     ] 	VmSize:	 1043052 kB
+10:18:26 [App     ] } ENDINFO

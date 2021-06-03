@@ -1,0 +1,338 @@
+10:18:00 [App     ] Build date: Jun  2 2021, 10:29:01
+10:18:00 [App     ] CPU: 11th Gen Intel(R) Core(TM) i7-1165G7 @ 2.80GHz (8 cores)
+10:18:00 [App     ] RAM: 7.47GB Physical Memory 2.00GB Virtual Memory
+10:18:00 [App     ] OS: Linux 5.8.0-53-generic (x86_64)
+10:18:00 [App     ] SSE & AVX compatible CPU & OS detected
+10:18:00 [App     ] Command line: scene.mvs --dense-config-file Densify.ini --resolution-level 1 -w /00_work/01_data/slam/VID_20210603_134846/slamout/mvs
+10:18:00 [App     ] Camera model loaded: platform 0; camera  0; f 0.825x0.825; poses 148
+10:18:00 [App     ] Image loaded   0: image_0210.jpg
+10:18:00 [App     ] Image loaded   1: image_0215.jpg
+10:18:00 [App     ] Image loaded   2: image_0216.jpg
+10:18:00 [App     ] Image loaded   3: image_0217.jpg
+10:18:00 [App     ] Image loaded   4: image_0218.jpg
+10:18:00 [App     ] Image loaded   5: image_0220.jpg
+10:18:00 [App     ] Image loaded   6: image_0221.jpg
+10:18:00 [App     ] Image loaded   7: image_0222.jpg
+10:18:00 [App     ] Image loaded   8: image_0223.jpg
+10:18:00 [App     ] Image loaded   9: image_0224.jpg
+10:18:00 [App     ] Image loaded  10: image_0225.jpg
+10:18:00 [App     ] Image loaded  11: image_0226.jpg
+10:18:00 [App     ] Image loaded  12: image_0227.jpg
+10:18:00 [App     ] Image loaded  13: image_0228.jpg
+10:18:00 [App     ] Image loaded  14: image_0229.jpg
+10:18:00 [App     ] Image loaded  15: image_0230.jpg
+10:18:00 [App     ] Image loaded  16: image_0231.jpg
+10:18:00 [App     ] Image loaded  17: image_0235.jpg
+10:18:00 [App     ] Image loaded  18: image_0236.jpg
+10:18:00 [App     ] Image loaded  19: image_0237.jpg
+10:18:00 [App     ] Image loaded  20: image_0238.jpg
+10:18:00 [App     ] Image loaded  21: image_0239.jpg
+10:18:00 [App     ] Image loaded  22: image_0240.jpg
+10:18:00 [App     ] Image loaded  23: image_0241.jpg
+10:18:00 [App     ] Image loaded  24: image_0242.jpg
+10:18:00 [App     ] Image loaded  25: image_0243.jpg
+10:18:00 [App     ] Image loaded  26: image_0244.jpg
+10:18:00 [App     ] Image loaded  27: image_0245.jpg
+10:18:00 [App     ] Image loaded  28: image_0246.jpg
+10:18:00 [App     ] Image loaded  29: image_0247.jpg
+10:18:00 [App     ] Image loaded  30: image_0248.jpg
+10:18:00 [App     ] Image loaded  31: image_0249.jpg
+10:18:00 [App     ] Image loaded  32: image_0250.jpg
+10:18:00 [App     ] Image loaded  33: image_0251.jpg
+10:18:00 [App     ] Image loaded  34: image_0252.jpg
+10:18:00 [App     ] Image loaded  35: image_0253.jpg
+10:18:00 [App     ] Image loaded  36: image_0254.jpg
+10:18:00 [App     ] Image loaded  37: image_0255.jpg
+10:18:00 [App     ] Image loaded  38: image_0256.jpg
+10:18:00 [App     ] Image loaded  39: image_0257.jpg
+10:18:00 [App     ] Image loaded  40: image_0258.jpg
+10:18:00 [App     ] Image loaded  41: image_0259.jpg
+10:18:00 [App     ] Image loaded  42: image_0260.jpg
+10:18:00 [App     ] Image loaded  43: image_0261.jpg
+10:18:00 [App     ] Image loaded  44: image_0262.jpg
+10:18:00 [App     ] Image loaded  45: image_0263.jpg
+10:18:00 [App     ] Image loaded  46: image_0264.jpg
+10:18:00 [App     ] Image loaded  47: image_0265.jpg
+10:18:00 [App     ] Image loaded  48: image_0266.jpg
+10:18:00 [App     ] Image loaded  49: image_0267.jpg
+10:18:00 [App     ] Image loaded  50: image_0268.jpg
+10:18:00 [App     ] Image loaded  51: image_0269.jpg
+10:18:00 [App     ] Image loaded  52: image_0270.jpg
+10:18:00 [App     ] Image loaded  53: image_0271.jpg
+10:18:00 [App     ] Image loaded  54: image_0272.jpg
+10:18:00 [App     ] Image loaded  55: image_0273.jpg
+10:18:00 [App     ] Image loaded  56: image_0274.jpg
+10:18:00 [App     ] Image loaded  57: image_0275.jpg
+10:18:00 [App     ] Image loaded  58: image_0276.jpg
+10:18:00 [App     ] Image loaded  59: image_0277.jpg
+10:18:00 [App     ] Image loaded  60: image_0278.jpg
+10:18:00 [App     ] Image loaded  61: image_0279.jpg
+10:18:00 [App     ] Image loaded  62: image_0280.jpg
+10:18:00 [App     ] Image loaded  63: image_0281.jpg
+10:18:00 [App     ] Image loaded  64: image_0282.jpg
+10:18:00 [App     ] Image loaded  65: image_0283.jpg
+10:18:00 [App     ] Image loaded  66: image_0284.jpg
+10:18:00 [App     ] Image loaded  67: image_0285.jpg
+10:18:00 [App     ] Image loaded  68: image_0286.jpg
+10:18:00 [App     ] Image loaded  69: image_0287.jpg
+10:18:00 [App     ] Image loaded  70: image_0288.jpg
+10:18:00 [App     ] Image loaded  71: image_0289.jpg
+10:18:00 [App     ] Image loaded  72: image_0290.jpg
+10:18:00 [App     ] Image loaded  73: image_0291.jpg
+10:18:00 [App     ] Image loaded  74: image_0292.jpg
+10:18:00 [App     ] Image loaded  75: image_0293.jpg
+10:18:00 [App     ] Image loaded  76: image_0294.jpg
+10:18:00 [App     ] Image loaded  77: image_0295.jpg
+10:18:00 [App     ] Image loaded  78: image_0296.jpg
+10:18:00 [App     ] Image loaded  79: image_0297.jpg
+10:18:00 [App     ] Image loaded  80: image_0298.jpg
+10:18:00 [App     ] Image loaded  81: image_0299.jpg
+10:18:00 [App     ] Image loaded  82: image_0300.jpg
+10:18:00 [App     ] Image loaded  83: image_0301.jpg
+10:18:00 [App     ] Image loaded  84: image_0302.jpg
+10:18:00 [App     ] Image loaded  85: image_0303.jpg
+10:18:00 [App     ] Image loaded  86: image_0304.jpg
+10:18:00 [App     ] Image loaded  87: image_0305.jpg
+10:18:00 [App     ] Image loaded  88: image_0306.jpg
+10:18:00 [App     ] Image loaded  89: image_0307.jpg
+10:18:00 [App     ] Image loaded  90: image_0308.jpg
+10:18:00 [App     ] Image loaded  91: image_0309.jpg
+10:18:00 [App     ] Image loaded  92: image_0310.jpg
+10:18:00 [App     ] Image loaded  93: image_0311.jpg
+10:18:00 [App     ] Image loaded  94: image_0312.jpg
+10:18:00 [App     ] Image loaded  95: image_0313.jpg
+10:18:00 [App     ] Image loaded  96: image_0314.jpg
+10:18:00 [App     ] Image loaded  97: image_0315.jpg
+10:18:00 [App     ] Image loaded  98: image_0316.jpg
+10:18:00 [App     ] Image loaded  99: image_0317.jpg
+10:18:00 [App     ] Image loaded 100: image_0318.jpg
+10:18:00 [App     ] Image loaded 101: image_0319.jpg
+10:18:00 [App     ] Image loaded 102: image_0320.jpg
+10:18:00 [App     ] Image loaded 103: image_0321.jpg
+10:18:00 [App     ] Image loaded 104: image_0322.jpg
+10:18:00 [App     ] Image loaded 105: image_0323.jpg
+10:18:00 [App     ] Image loaded 106: image_0324.jpg
+10:18:00 [App     ] Image loaded 107: image_0325.jpg
+10:18:00 [App     ] Image loaded 108: image_0326.jpg
+10:18:00 [App     ] Image loaded 109: image_0327.jpg
+10:18:00 [App     ] Image loaded 110: image_0328.jpg
+10:18:00 [App     ] Image loaded 111: image_0329.jpg
+10:18:00 [App     ] Image loaded 112: image_0330.jpg
+10:18:00 [App     ] Image loaded 113: image_0331.jpg
+10:18:00 [App     ] Image loaded 114: image_0332.jpg
+10:18:00 [App     ] Image loaded 115: image_0333.jpg
+10:18:00 [App     ] Image loaded 116: image_0334.jpg
+10:18:00 [App     ] Image loaded 117: image_0335.jpg
+10:18:00 [App     ] Image loaded 118: image_0336.jpg
+10:18:00 [App     ] Image loaded 119: image_0337.jpg
+10:18:00 [App     ] Image loaded 120: image_0338.jpg
+10:18:00 [App     ] Image loaded 121: image_0339.jpg
+10:18:00 [App     ] Image loaded 122: image_0340.jpg
+10:18:00 [App     ] Image loaded 123: image_0341.jpg
+10:18:00 [App     ] Image loaded 124: image_0342.jpg
+10:18:00 [App     ] Image loaded 125: image_0343.jpg
+10:18:00 [App     ] Image loaded 126: image_0344.jpg
+10:18:00 [App     ] Image loaded 127: image_0345.jpg
+10:18:00 [App     ] Image loaded 128: image_0346.jpg
+10:18:00 [App     ] Image loaded 129: image_0347.jpg
+10:18:00 [App     ] Image loaded 130: image_0348.jpg
+10:18:00 [App     ] Image loaded 131: image_0349.jpg
+10:18:00 [App     ] Image loaded 132: image_0350.jpg
+10:18:00 [App     ] Image loaded 133: image_0351.jpg
+10:18:00 [App     ] Image loaded 134: image_0352.jpg
+10:18:00 [App     ] Image loaded 135: image_0353.jpg
+10:18:00 [App     ] Image loaded 136: image_0354.jpg
+10:18:00 [App     ] Image loaded 137: image_0355.jpg
+10:18:00 [App     ] Image loaded 138: image_0356.jpg
+10:18:00 [App     ] Image loaded 139: image_0357.jpg
+10:18:00 [App     ] Image loaded 140: image_0358.jpg
+10:18:00 [App     ] Image loaded 141: image_0359.jpg
+10:18:00 [App     ] Image loaded 142: image_0360.jpg
+10:18:00 [App     ] Image loaded 143: image_0361.jpg
+10:18:00 [App     ] Image loaded 144: image_0362.jpg
+10:18:00 [App     ] Image loaded 145: image_0363.jpg
+10:18:00 [App     ] Image loaded 146: image_0364.jpg
+10:18:00 [App     ] Image loaded 147: image_0365.jpg
+10:18:00 [App     ] Scene loaded from interface format (95ms):
+	148 images (148 calibrated) with a total of 130.08 MPixels (0.88 MPixels/image)
+	1780 points, 0 vertices, 0 faces
+10:18:01 [App     ] Preparing images for dense reconstruction completed: 148 images (132ms)
+10:18:01 [App     ] error: reference image  42 has no good images in view
+10:18:01 [App     ] error: reference image  42 has no good images in view
+10:18:01 [App     ] error: reference image  42 has no good images in view
+10:18:01 [App     ] error: reference image  70 has no good images in view
+10:18:01 [App     ] error: reference image  21 has no good images in view
+10:18:01 [App     ] error: reference image 143 has no good images in view
+10:18:01 [App     ] error: reference image  35 has no good images in view
+10:18:01 [App     ] error: reference image   9 has no good images in view
+10:18:01 [App     ] error: reference image  26 has no good images in view
+10:18:01 [App     ] error: reference image   2 has no good images in view
+10:18:01 [App     ] error: reference image  51 has no good images in view
+10:18:01 [App     ] error: reference image  38 has no good images in view
+10:18:01 [App     ] error: reference image   4 has no good images in view
+10:18:01 [App     ] error: reference image  49 has no good images in view
+10:18:01 [App     ] error: reference image  16 has no good images in view
+10:18:01 [App     ] error: reference image  66 has no good images in view
+10:18:01 [App     ] error: reference image  40 has no good images in view
+10:18:01 [App     ] error: reference image   7 has no good images in view
+10:18:01 [App     ] error: reference image  33 has no good images in view
+10:18:01 [App     ] error: reference image  47 has no good images in view
+10:18:01 [App     ] error: reference image  24 has no good images in view
+10:18:01 [App     ] error: reference image  31 has no good images in view
+10:18:01 [App     ] error: reference image  14 has no good images in view
+10:18:01 [App     ] error: reference image  19 has no good images in view
+10:18:01 [App     ] error: reference image  45 has no good images in view
+10:18:01 [App     ] error: reference image  73 has no good images in view
+10:18:01 [App     ] error: reference image  60 has no good images in view
+10:18:01 [App     ] error: reference image  12 has no good images in view
+10:18:01 [App     ] error: reference image 141 has no good images in view
+10:18:01 [App     ] error: reference image  81 has no good images in view
+10:18:01 [App     ] error: reference image 146 has no good images in view
+10:18:01 [App     ] error: reference image  57 has no good images in view
+10:18:01 [App     ] error: reference image  27 has no good images in view
+10:18:01 [App     ] error: reference image  79 has no good images in view
+10:18:01 [App     ] error: reference image  29 has no good images in view
+10:18:01 [App     ] error: reference image  54 has no good images in view
+10:18:01 [App     ] error: reference image 144 has no good images in view
+10:18:01 [App     ] error: reference image   5 has no good images in view
+10:18:01 [App     ] error: reference image  71 has no good images in view
+10:18:01 [App     ] error: reference image   1 has no good images in view
+10:18:01 [App     ] error: reference image  36 has no good images in view
+10:18:01 [App     ] error: reference image  65 has no good images in view
+10:18:01 [App     ] error: reference image  65 has no good images in view
+10:18:01 [App     ] error: reference image  65 has no good images in view
+10:18:01 [App     ] error: reference image  43 has no good images in view
+10:18:01 [App     ] error: reference image  43 has no good images in view
+10:18:01 [App     ] error: reference image  52 has no good images in view
+10:18:01 [App     ] error: reference image  17 has no good images in view
+10:18:01 [App     ] error: reference image  58 has no good images in view
+10:18:01 [App     ] error: reference image   8 has no good images in view
+10:18:01 [App     ] error: reference image  41 has no good images in view
+10:18:01 [App     ] error: reference image  67 has no good images in view
+10:18:01 [App     ] error: reference image  32 has no good images in view
+10:18:01 [App     ] error: reference image  25 has no good images in view
+10:18:01 [App     ] error: reference image  34 has no good images in view
+10:18:01 [App     ] error: reference image  77 has no good images in view
+10:18:01 [App     ] error: reference image 142 has no good images in view
+10:18:01 [App     ] error: reference image  13 has no good images in view
+10:18:01 [App     ] error: reference image  46 has no good images in view
+10:18:01 [App     ] error: reference image   3 has no good images in view
+10:18:01 [App     ] error: reference image  37 has no good images in view
+10:18:01 [App     ] error: reference image 147 has no good images in view
+10:18:01 [App     ] error: reference image  82 has no good images in view
+10:18:01 [App     ] error: reference image  48 has no good images in view
+10:18:01 [App     ] error: reference image  18 has no good images in view
+10:18:01 [App     ] error: reference image  61 has no good images in view
+10:18:01 [App     ] error: reference image  15 has no good images in view
+10:18:01 [App     ] error: reference image  28 has no good images in view
+10:18:01 [App     ] error: reference image 145 has no good images in view
+10:18:01 [App     ] error: reference image  20 has no good images in view
+10:18:01 [App     ] error: reference image  63 has no good images in view
+10:18:01 [App     ] error: reference image  11 has no good images in view
+10:18:01 [App     ] error: reference image  55 has no good images in view
+10:18:01 [App     ] error: reference image  39 has no good images in view
+10:18:01 [App     ] error: reference image 140 has no good images in view
+10:18:01 [App     ] error: reference image   6 has no good images in view
+10:18:01 [App     ] error: reference image  80 has no good images in view
+10:18:01 [App     ] error: reference image  30 has no good images in view
+10:18:01 [App     ] error: reference image  72 has no good images in view
+10:18:01 [App     ] error: reference image  59 has no good images in view
+10:18:01 [App     ] error: reference image  75 has no good images in view
+10:18:01 [App     ] error: reference image  23 has no good images in view
+10:18:01 [App     ] error: reference image  44 has no good images in view
+10:18:01 [App     ] Selecting images for dense reconstruction completed: 65 images (16ms)
+10:18:01 [App     ] Reference image 120 paired with 0 views
+10:18:01 [App     ] Reference image  76 paired with 0 views
+10:18:01 [App     ] Reference image 112 paired with 0 views
+10:18:01 [App     ] Reference image  84 paired with 0 views
+10:18:01 [App     ] Reference image  94 paired with 0 views
+10:18:01 [App     ] Reference image  74 paired with 0 views
+10:18:01 [App     ] Reference image 130 paired with 5 views
+10:18:01 [App     ] Reference image 102 paired with 0 views
+10:18:01 [App     ] Reference image 139 paired with 0 views
+10:18:01 [App     ] Reference image 106 paired with 0 views
+10:18:01 [App     ] Reference image  88 paired with 0 views
+10:18:01 [App     ] Reference image 113 paired with 0 views
+10:18:01 [App     ] Reference image 131 paired with 5 views
+10:18:03 [App     ] Depth-map for image 130 estimated using  5 images: 640x360 (2s235ms)
+10:18:03 [App     ] Reference image  95 paired with 0 views
+10:18:03 [App     ] Reference image 127 paired with 0 views
+10:18:03 [App     ] Reference image 121 paired with 0 views
+10:18:03 [App     ] Reference image  69 paired with 0 views
+10:18:03 [App     ] Reference image 114 paired with 0 views
+10:18:03 [App     ] Reference image 132 paired with 5 views
+10:18:05 [App     ] Depth-map for image 131 estimated using  5 images: 640x360 (2s205ms)
+10:18:05 [App     ] Reference image  78 paired with 0 views
+10:18:05 [App     ] Reference image  96 paired with 0 views
+10:18:05 [App     ] Reference image  56 paired with 0 views
+10:18:05 [App     ] Reference image  85 paired with 0 views
+10:18:05 [App     ] Reference image 103 paired with 0 views
+10:18:05 [App     ] Reference image 133 paired with 2 views
+10:18:07 [App     ] Depth-map for image 132 estimated using  5 images: 640x360 (2s379ms)
+10:18:07 [App     ] Reference image 125 paired with 0 views
+10:18:07 [App     ] Reference image 115 paired with 0 views
+10:18:07 [App     ] Reference image 110 paired with 0 views
+10:18:07 [App     ] Reference image  97 paired with 0 views
+10:18:07 [App     ] Reference image  92 paired with 0 views
+10:18:07 [App     ] Reference image 107 paired with 0 views
+10:18:07 [App     ] Reference image 122 paired with 4 views
+10:18:09 [App     ] Depth-map for image 133 estimated using  2 images: 640x360 (1s332ms)
+10:18:09 [App     ] Reference image 134 paired with 0 views
+10:18:09 [App     ] Reference image  89 paired with 0 views
+10:18:09 [App     ] Reference image 116 paired with 0 views
+10:18:09 [App     ] Reference image  86 paired with 0 views
+10:18:09 [App     ] Reference image 104 paired with 0 views
+10:18:09 [App     ] Reference image  98 paired with 0 views
+10:18:09 [App     ] Reference image  93 paired with 0 views
+10:18:09 [App     ] Reference image 109 paired with 0 views
+10:18:09 [App     ] Reference image 135 paired with 0 views
+10:18:09 [App     ] Reference image  62 paired with 0 views
+10:18:09 [App     ] Reference image 117 paired with 0 views
+10:18:09 [App     ] Reference image  91 paired with 0 views
+10:18:09 [App     ] Reference image 126 paired with 3 views
+10:18:11 [App     ] Depth-map for image 122 estimated using  4 images: 640x360 (2s540ms)
+10:18:11 [App     ] Reference image  99 paired with 0 views
+10:18:11 [App     ] Reference image 123 paired with 5 views
+10:18:13 [App     ] Depth-map for image 126 estimated using  3 images: 640x360 (1s771ms)
+10:18:13 [App     ] Reference image 136 paired with 0 views
+10:18:13 [App     ] Reference image 129 paired with 5 views
+10:18:16 [App     ] Depth-map for image 123 estimated using  5 images: 640x360 (3s104ms)
+10:18:16 [App     ] Reference image 118 paired with 3 views
+10:18:19 [App     ] Depth-map for image 129 estimated using  5 images: 640x360 (2s632ms)
+10:18:19 [App     ] Reference image 128 paired with 0 views
+10:18:19 [App     ] Reference image 105 paired with 0 views
+10:18:19 [App     ] Reference image 100 paired with 0 views
+10:18:19 [App     ] Reference image  87 paired with 0 views
+10:18:19 [App     ] Reference image  68 paired with 0 views
+10:18:19 [App     ] Reference image 137 paired with 0 views
+10:18:19 [App     ] Reference image 108 paired with 0 views
+10:18:19 [App     ] Reference image 119 paired with 5 views
+10:18:21 [App     ] Depth-map for image 118 estimated using  3 images: 640x360 (2s84ms)
+10:18:21 [App     ] Reference image  83 paired with 0 views
+10:18:21 [App     ] Reference image 111 paired with 0 views
+10:18:21 [App     ] Reference image 101 paired with 0 views
+10:18:21 [App     ] Reference image  64 paired with 0 views
+10:18:21 [App     ] Reference image 124 paired with 0 views
+10:18:21 [App     ] Reference image 138 paired with 0 views
+10:18:21 [App     ] Reference image  90 paired with 0 views
+10:18:24 [App     ] Depth-map for image 119 estimated using  5 images: 640x360 (3s387ms)
+10:18:24 [App     ] error: depth map 122 can not be filtered
+10:18:24 [App     ] error: depth map 126 can not be filtered
+10:18:24 [App     ] error: depth map 123 can not be filtered
+10:18:24 [App     ] error: depth map 118 can not be filtered
+10:18:24 [App     ] error: depth map 119 can not be filtered
+10:18:24 [App     ] Depth map 130 filtered using 2 other images: 79468/106973 depths discarded (40ms)
+10:18:24 [App     ] Depth map 129 filtered using 2 other images: 80856/117504 depths discarded (44ms)
+10:18:24 [App     ] Depth map 131 filtered using 2 other images: 69046/114566 depths discarded (46ms)
+10:18:24 [App     ] Depth map 132 filtered using 3 other images: 58341/108946 depths discarded (48ms)
+10:18:24 [App     ] Depth map 133 filtered using 4 other images: 73424/132404 depths discarded (65ms)
+10:18:25 [App     ] Depth-maps fused and filtered: 10 depth-maps, 965722 depths, 43516 points (5%%) (156ms)
+10:18:25 [App     ] Densifying point-cloud completed: 43516 points (24s224ms)
+10:18:25 [App     ] Scene saved (87ms):
+	148 images (148 calibrated)
+	43516 points, 0 vertices, 0 faces
+10:18:25 [App     ] Point-cloud saved: 43516 points (3ms)
+10:18:25 [App     ] MEMORYINFO: {
+10:18:25 [App     ] 	VmPeak:	 2223460 kB
+10:18:25 [App     ] 	VmSize:	 2200176 kB
+10:18:25 [App     ] } ENDINFO
